@@ -52,3 +52,31 @@ export default tseslint.config({
   },
 })
 ```
+
+Project directory:
+
+```txt
+.
+├── dist
+│   ├── assets
+│   │   ├── index-B2ycVLwY.css
+│   │   └── index-CcliHmei.js
+│   └── index.html
+├── eslint.config.js
+├── index.html
+├── package-lock.json
+├── package.json
+├── public
+├── README.md
+├── src
+│   ├── App.css
+│   ├── App.tsx
+│   ├── assets
+│   ├── index.css
+│   ├── main.tsx
+│   └── vite-env.d.ts
+├── tsconfig.app.json
+├── tsconfig.json
+├── tsconfig.node.json
+└── vite.config.ts
+```
