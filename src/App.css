@@ -8,3 +8,8 @@
   -moz-osx-font-smoothing: grayscale;
   text-rendering: optimizeLegibility;
 }
+
+.someClass {
+  font-family: monospace;
+  font-weight: 600;
+}
